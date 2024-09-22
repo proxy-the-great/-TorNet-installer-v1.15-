@@ -11,13 +11,18 @@
 You must also have python 3 installed.
 
 **-How to install python 3:**
+
 -Start off by using: ```sudo apt update```, if any updates are available type this command: ```sudo apt upgrade``` to install them.
+
 -Install python 3: ```sudo apt install python3```
+
 -Verify the installation with: ```python3 --version```
 
 ---
 
 # How to use this program:
 -Once you verified that you have Python 3, download inst_deb.py from the releases section, and place it in Home/User...
+
 -Open your terminal and use: ```python3 inst_deb.py```
+
 -You will be prompted to insert your password and the installation will begin.
