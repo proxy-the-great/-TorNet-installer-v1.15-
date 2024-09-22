@@ -40,4 +40,6 @@ Please note that the shorter the interval is, the slower your wifi connection wi
 If you receive the error:  ```sh: 1: service: not found``` instead of using the tornet command, launch the installer again.
 (If Tor and TorNet are pre-installed the installer will just find the current errors, check for updates and start tornet)
 
+This installer is kinda pointless ngl...you can just use commands to install tornet....
+
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
