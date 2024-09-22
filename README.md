@@ -7,7 +7,7 @@
 
 ---
 
-# This current version is for Ubuntu/Debian-based distributions only!
+# This current version is for Ubuntu/Debian-based distributions.
 You must also have python 3 installed.
 
 **-How to install python 3:**
@@ -26,3 +26,10 @@ You must also have python 3 installed.
 -Open your terminal and use: ```python3 inst_deb.py```
 
 -You will be prompted to insert your password and the installation will begin.
+
+# How to use TorNet:
+-At the end of installation it will start automatically, however you can use:                                                           
+```sudo tornet --interval (Seconds that pass between tor refresh) --count (if set to 0 tor will go on until the task is terminated)```
+
+Example: ```sudo tornet --interval 10 --count 0 ```                                                                               
+Please note that the shorter the interval is, the slower your wifi connection will become.
