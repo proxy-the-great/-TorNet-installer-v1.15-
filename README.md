@@ -38,4 +38,4 @@ Please note that the shorter the interval is, the slower your wifi connection wi
 # Service not found error:
 
 If you receive the error:  ```sh: 1: service: not found``` instead of using the tornet command, launch the installer again.
-(If Tor and TorNet are pre-installed the installer will just resolve the current errors and start tornet)
+(If Tor and TorNet are pre-installed the installer will just find the current errors, check for updates and start tornet)
