@@ -29,7 +29,7 @@ You must also have python 3 installed.
 
 # How to use TorNet:
 -At the end of installation it will start automatically, however you can use:                                                           
-```sudo tornet --interval (Seconds that pass between tor refresh) --count (if set to 0 tor will go on until the task is terminated)```
+```sudo tornet --interval (Seconds that pass between tor refresh) --count (if set to 0 tor will go on forever)```
 
 Example: ```sudo tornet --interval 10 --count 0 ```                                                                               
 Please note that the shorter the interval is, the slower your wifi connection will become.
