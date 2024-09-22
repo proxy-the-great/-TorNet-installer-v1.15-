@@ -21,7 +21,7 @@ You must also have python 3 installed.
 ---
 
 # How to use this program:
--Once you verified that you have Python 3, download inst_deb.py from the releases section, and place it in Home/User...
+-Once you verified that you have Python 3, download inst_deb.py from the releases section, and place it in /Home/User/...
 
 -Open your terminal and use: ```python3 instdeb.py```
 
@@ -38,7 +38,7 @@ Please note that the shorter the interval is, the slower your wifi connection wi
 # Service not found error:
 
 If you receive the error:  ```sh: 1: service: not found``` instead of using the tornet command, launch the installer again.
-(If Tor and TorNet are pre-installed the installer will just find the current errors, check for updates and start tornet)
+(If Tor, pip and TorNet are pre-installed the installer will simply try and find errors and launch the application.)
 
 This installer is kinda pointless ngl...you can just use commands to install tornet....
 
