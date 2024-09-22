@@ -35,4 +35,5 @@ Example: ```sudo tornet --interval 10 --count 0 ```
 If count is set to 0, the program will go on until the terminal window is closed...
 Please note that the shorter the interval is, the slower your wifi connection will become.
 
-If you receive the error:  ```sh: 1: service: not found``` use: ```tornet --auto-fix``` and it should work fine.
+If you receive the error:  ```sh: 1: service: not found``` instead of using the tornet command, launch the installer again.
+(If Tor and TorNet are pre-installed the installer will just resolve the current errors and start tornet)
