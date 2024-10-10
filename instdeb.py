@@ -12,10 +12,10 @@ import os #this is essential if we want to run cmds!
 # "$ python --version" (Check if you have the right vers.)
 #
 #
-  # Go to line 38 to edit count and interval :)
-  ## if count is set to 0 tornet will reload endlessly.
-  ## interval between tor reloads is set to 15s normally.
-  ## Lower interval = less stable connection and slower wifi.
+# Go to line 38 to edit count and interval :)
+## if count is set to 0 tornet will reload endlessly.
+## interval between tor reloads is set to 15s normally.
+## Lower interval = less stable connection and slower wifi.
 
 print("") #leaving empty spaces for more order :)
 print("")
