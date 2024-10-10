@@ -5,7 +5,7 @@
 
 **This tool has been created to simplify the TorNet deafult installation: using python it automatically installs pip (if it's missing from the user's device), TOR, TorNet and bypasses the "Externally managed device error" that can be encountered with the newest versions of sudo. It also makes sure that every piece of software is up-to-date and that there are no missing dependencies, nor syntaxt errors.**
 
--- If you are encountering errors using tornet normally, launch this script and it will start with no errors --
+- If you are encountering errors using tornet normally, launch this script and it will start with no errors
 ---
 
 # This current version is for Ubuntu/Debian-based distributions.
